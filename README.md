@@ -1,2 +1,1 @@
-# prebday.github.io
-wait
+# birthday.github.io
